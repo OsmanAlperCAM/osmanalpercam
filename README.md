@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Alper
 - I am an Agricultural Engineer
-- I'm currently learning React native
-- I am currently a student at the 128th Inavitas&Basarsoft bootcamp organized by patika.dev.
+- I'm a junior react native developer
+- I graduated from the 128th Inavitas&Basarsoft React Native bootcamp organized by patika.dev.
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
